@@ -9,7 +9,7 @@ This app was made during a live coding session for [DevNights](https://www.youtu
 You can see the video [here](https://www.youtube.com/watch?v=DUQcT6VHoBM).
 
 ##Screenshots
-![](docs/img/c1.png)
+![](docs/img/c1.PNG)
 
 ## Before we begin
 
