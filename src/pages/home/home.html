@@ -1,0 +1,13 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Pokémon
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+  <poke-card *ngFor="let poke of pokemon" [poke]="poke"></poke-card>
+
+</ion-content>
